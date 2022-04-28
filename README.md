@@ -1,4 +1,4 @@
-# pythoni-viimane-töö
+# pythoni-viimane-ylesanne
 Ilmaäpp
 Ilmaäpp on reaalajas põhi ilmainfot jagav tarkvara.
 Kasutajalt küsitakse linna nime.
